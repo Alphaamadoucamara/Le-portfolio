@@ -1,12 +1,12 @@
 body{
-    font-family: Arial, sans-serif; background: black; text-align: justify;
+    font-family: Arial, sans-serif; background: lavender; text-align: justify;
  padding: 20px;
 }
 .container{
-    background: white; pedding: 20px; border-radius: 5px;display: inline-block;
+    background: white; pedding: 10px; border-radius: 5px;display: inline-block;
 }
 input{
-    padding: 10px;width:200px;
+    padding: 10px;width:150px;
 }
 button{
     padding: 10px; margin-left: 10px;
